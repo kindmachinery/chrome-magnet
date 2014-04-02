@@ -1,9 +1,9 @@
-*.pyc
-# don't include third-party dependencies.
-app/distlib
 python
 bin
 var
 eggs
 .DS_Store
+*.sublime-project
+*.sublime-workspace
 .installed.cfg
+key.pem
